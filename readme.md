@@ -110,7 +110,8 @@ For initial testing, you can use the following admin credentials:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to fork the repository, create pull requests, or open issues for bugs and feature requests.
-
+## Miriam contribution
+My name is Fuashaale Miriam and this is my contribution
 
 ## 📞 Support
 
